@@ -15,10 +15,11 @@ Status: nachträglich dokumentiert am 2026-10-09 aus `sprint-plan.md`
 
 ## 3. Kapazität
 
-| Person | Verfügbare Stunden | Abwesenheiten |
-| --- | --- | --- |
-| [Name] | | |
-| **Summe** | | |
+| Person    | Verfügbare Stunden | Abwesenheiten |
+| --------- | ------------------ | ------------- |
+| [Name]    | 1h                 |               |
+| **Summe** |                    |               |
+|           |                    |               |
 
 Gesamtbudget: ca. 44 h
 
